@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.ts,.tsx --fix",
     "prepare": "husky install",
-    "lint:lint-staged": "lint-staged"
+    "lint-staged": "lint-staged"
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
